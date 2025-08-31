@@ -1,0 +1,14 @@
+D:\C#\Calculadora de tabuada\Calculadora de tabuada\bin\Debug\net8.0\Calculadora de tabuada.exe
+D:\C#\Calculadora de tabuada\Calculadora de tabuada\bin\Debug\net8.0\Calculadora de tabuada.deps.json
+D:\C#\Calculadora de tabuada\Calculadora de tabuada\bin\Debug\net8.0\Calculadora de tabuada.runtimeconfig.json
+D:\C#\Calculadora de tabuada\Calculadora de tabuada\bin\Debug\net8.0\Calculadora de tabuada.dll
+D:\C#\Calculadora de tabuada\Calculadora de tabuada\bin\Debug\net8.0\Calculadora de tabuada.pdb
+D:\C#\Calculadora de tabuada\Calculadora de tabuada\obj\Debug\net8.0\Calculadora de tabuada.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Calculadora de tabuada\Calculadora de tabuada\obj\Debug\net8.0\Calculadora de tabuada.AssemblyInfoInputs.cache
+D:\C#\Calculadora de tabuada\Calculadora de tabuada\obj\Debug\net8.0\Calculadora de tabuada.AssemblyInfo.cs
+D:\C#\Calculadora de tabuada\Calculadora de tabuada\obj\Debug\net8.0\Calculadora de tabuada.csproj.CoreCompileInputs.cache
+D:\C#\Calculadora de tabuada\Calculadora de tabuada\obj\Debug\net8.0\Calculadora de tabuada.dll
+D:\C#\Calculadora de tabuada\Calculadora de tabuada\obj\Debug\net8.0\refint\Calculadora de tabuada.dll
+D:\C#\Calculadora de tabuada\Calculadora de tabuada\obj\Debug\net8.0\Calculadora de tabuada.pdb
+D:\C#\Calculadora de tabuada\Calculadora de tabuada\obj\Debug\net8.0\Calculadora de tabuada.genruntimeconfig.cache
+D:\C#\Calculadora de tabuada\Calculadora de tabuada\obj\Debug\net8.0\ref\Calculadora de tabuada.dll
