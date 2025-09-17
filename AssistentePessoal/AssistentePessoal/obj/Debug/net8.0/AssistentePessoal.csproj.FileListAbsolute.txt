@@ -1,0 +1,14 @@
+D:\C#\AssistentePessoal\AssistentePessoal\bin\Debug\net8.0\AssistentePessoal.exe
+D:\C#\AssistentePessoal\AssistentePessoal\bin\Debug\net8.0\AssistentePessoal.deps.json
+D:\C#\AssistentePessoal\AssistentePessoal\bin\Debug\net8.0\AssistentePessoal.runtimeconfig.json
+D:\C#\AssistentePessoal\AssistentePessoal\bin\Debug\net8.0\AssistentePessoal.dll
+D:\C#\AssistentePessoal\AssistentePessoal\bin\Debug\net8.0\AssistentePessoal.pdb
+D:\C#\AssistentePessoal\AssistentePessoal\obj\Debug\net8.0\AssistentePessoal.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\AssistentePessoal\AssistentePessoal\obj\Debug\net8.0\AssistentePessoal.AssemblyInfoInputs.cache
+D:\C#\AssistentePessoal\AssistentePessoal\obj\Debug\net8.0\AssistentePessoal.AssemblyInfo.cs
+D:\C#\AssistentePessoal\AssistentePessoal\obj\Debug\net8.0\AssistentePessoal.csproj.CoreCompileInputs.cache
+D:\C#\AssistentePessoal\AssistentePessoal\obj\Debug\net8.0\AssistentePessoal.dll
+D:\C#\AssistentePessoal\AssistentePessoal\obj\Debug\net8.0\refint\AssistentePessoal.dll
+D:\C#\AssistentePessoal\AssistentePessoal\obj\Debug\net8.0\AssistentePessoal.pdb
+D:\C#\AssistentePessoal\AssistentePessoal\obj\Debug\net8.0\AssistentePessoal.genruntimeconfig.cache
+D:\C#\AssistentePessoal\AssistentePessoal\obj\Debug\net8.0\ref\AssistentePessoal.dll
